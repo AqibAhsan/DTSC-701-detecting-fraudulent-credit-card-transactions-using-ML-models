@@ -1,7 +1,5 @@
 This project focuses on detecting fraudulent credit card transactions using machine learning models. The dataset used contains 13,788 rows and 394 columns, with a small percentage (2.75%) of fraudulent transactions. The goal is to identify fraudulent transactions among many and test different models to determine the most accurate and efficient one for fraud detection.
 
-The project aims to develop a model to identify fraudulent transactions in real-time to help society mitigate fraud.
-
 Pyspark, the Python API for Apache Spark, is used due to its ability to handle large-scale datasets efficiently.
 The dataset is unbalanced (with more genuine transactions than fraudulent ones).
 Data preprocessing involves cleaning, handling missing values, and transforming the dataset for machine learning algorithms.
